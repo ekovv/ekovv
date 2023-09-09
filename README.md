@@ -38,3 +38,5 @@ I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekovv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
