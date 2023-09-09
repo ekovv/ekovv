@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fproudalenku.ru%2Fnapravleniya-v-programmirovanii%2F&psig=AOvVaw0MxNxPsIu2R7UNwOxUj7c4&ust=1694379564003000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPjp3fO1noEDFQAAAAAdAAAAABAI)https://www.google.com/url?sa=i&url=https%3A%2F%2Fproudalenku.ru%2Fnapravleniya-v-programmirovanii%2F&psig=AOvVaw0MxNxPsIu2R7UNwOxUj7c4&ust=1694379564003000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPjp3fO1noEDFQAAAAAdAAAAABAI" width="100"/>
+</div>
