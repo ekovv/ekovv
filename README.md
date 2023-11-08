@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
