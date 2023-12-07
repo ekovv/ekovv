@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔨 : About Me :
+###  : About Me :
 
 I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-### :hammer_and_wrench: Languages and Tools :
+### : Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
