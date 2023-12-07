@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ⚒️ : About Me :
+### 🔨 : About Me :
 
 I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
