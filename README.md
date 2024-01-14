@@ -39,6 +39,6 @@ I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
-Leetcode 🔨
+### Leetcode 🔨
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ekov?theme=dark&font=Julee)
