@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://giphy.com/gifs/brzinsurance-brz-golang-brzgolang-GJb22mIqoT01hGjG2C" width="600" height="300"/>
+  <img src="[https://giphy.com/gifs/brzinsurance-brz-golang-brzgolang-GJb22mIqoT01hGjG2C](https://giphy.com/gifs/brzinsurance-brz-golang-brzgolang-GJb22mIqoT01hGjG2C)" width="600" height="300"/>
 </div>
 
 ---
