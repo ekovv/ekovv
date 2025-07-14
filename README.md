@@ -19,12 +19,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="600" height="300"/>
 </div>
 
----
-
-###   About Me :
-
-I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
 ### Languages and Tools 💎 :
 
 <div>
